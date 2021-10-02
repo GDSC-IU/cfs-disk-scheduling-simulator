@@ -139,7 +139,7 @@ Distributed under the MIT License. See `LICENSE` for more informations.
 
 <!-- CONTACT -->
 ## Contact
-Saurav Panchal 
+### Author: [sauravpanchal](https://github.com/sauravpanchal) 
 - Mail : saurav.panchal.08@gmail.com
 - Links : [Linktree](https://linktr.ee/sauravpanchal)
 
